@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "app-cobros-91ea7",
+    "dropsoft": "app-cobros-91ea7",
+    "app-cobros": "app-cobros-91ea7"
+  },
+  "targets": {}
+}
