@@ -1,6 +1,6 @@
 # Control de Préstamos y Cobros 💼💸
 
-Este proyecto es una aplicación web desarrollada con **React** y **Material-UI** para gestionar el control de préstamos y cobros de manera eficiente. Proporciona una interfaz intuitiva para administrar clientes, registrar préstamos, realizar cobros y generar reportes detallados sobre el estado de cada operación financiera.
+Este proyecto es una aplicación web desarrollada con **React** y **Material-UI** para gestionar el control de préstamos y cobros de manera eficiente. Proporciona una interfaz intuitiva para administrar clientes, registrar préstamos, realizar cobros y buscar detalles sobre el estado de cada operación financiera.
 
 ## Características ✨
 
@@ -9,7 +9,7 @@ Este proyecto es una aplicación web desarrollada con **React** y **Material-UI*
 - Integración con **Firebase** para autenticación.
 - Soporte para **i18n** (internacionalización).
 - Integración con gráficos interactivos usando **ApexCharts**.
-- Búsquedas avanzadas y filtrado de datos.
+- Búsquedas y filtrado de datos.
 - Responsive design optimizado para dispositivos móviles.
 
 ## Tecnologías utilizadas 💻
@@ -27,7 +27,7 @@ Este proyecto es una aplicación web desarrollada con **React** y **Material-UI*
 
 ## Requisitos Previos
 
-Antes de comenzar, asegúrate de tener instalado lo siguiente:
+Antes de comenzar, tener instalado lo siguiente:
 
 - Node.js v14 o superior
 - Yarn v1.22 o superior
@@ -35,7 +35,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 ### Instalación de Firebase CLI
 
-Puedes instalar la herramienta de Firebase CLI ejecutando:
+Instalar la herramienta de Firebase CLI ejecutando:
 
 ```bash
 npm install -g firebase-tools
@@ -114,9 +114,22 @@ Esto iniciará la aplicación utilizando **Craco** (Create React App Configurati
 
 Este proyecto utiliza diversas dependencias para su correcto funcionamiento, tales como:
 
-- **Craco** para la personalización de Create React App.
+- **Craco** template para la personalización.
 - **Babel** para la transformación de JSX y TypeScript.
 - **PostCSS 7 compatibility** para TailwindCSS.
+
+## Demo en Producción
+
+Puedes acceder a la versión en producción del proyecto utilizando el siguiente enlace:
+
+- **URL del sitio en producción**: [CONTROL DE PRESTAMOS](https://app-cobros-91ea7.web.app/)
+
+### Credenciales de Acceso (Demo)
+
+Credenciales para usuario cobrador:
+
+- **Usuario**: ejemplo@gmail.com
+- **Contraseña**: 123456
 
 
 
