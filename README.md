@@ -5,6 +5,9 @@ Este proyecto es una aplicación web desarrollada con **React** y **Material-UI*
 ## Características ✨
 
 - Gestión de préstamos y cobros.
+- Gestión de registro de clientes.
+- Gestión de billetera.
+- Gestión de cartillas de control de pagos.
 - Interfaz de usuario moderna basada en **Material-UI**.
 - Integración con **Firebase** para autenticación.
 - Soporte para **i18n** (internacionalización).
